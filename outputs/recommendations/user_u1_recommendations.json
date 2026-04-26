@@ -1,0 +1,44 @@
+[
+  {
+    "business_id": "b014",
+    "name": "Queens Curry",
+    "score": 13.5855,
+    "categories": "Indian curry dal biryani naan restaurant",
+    "stars": 4.5
+  },
+  {
+    "business_id": "b016",
+    "name": "Bay Vegan",
+    "score": 8.3067,
+    "categories": "Vegan healthy organic plant based bowl",
+    "stars": 4.6
+  },
+  {
+    "business_id": "b008",
+    "name": "Pho Lantern",
+    "score": 8.23,
+    "categories": "Vietnamese pho banh mi noodles broth",
+    "stars": 4.3
+  },
+  {
+    "business_id": "b009",
+    "name": "Cafe Mosaic",
+    "score": 7.361,
+    "categories": "Coffee brunch bakery croissant cafe",
+    "stars": 4.2
+  },
+  {
+    "business_id": "b017",
+    "name": "Golden Dumpling",
+    "score": 7.2099,
+    "categories": "Chinese dumplings noodles soup restaurant",
+    "stars": 4.2
+  },
+  {
+    "business_id": "b013",
+    "name": "Brooklyn Slice",
+    "score": 7.1184,
+    "categories": "Pizza italian pepperoni new york restaurant",
+    "stars": 4.4
+  }
+]

@@ -1,0 +1,18 @@
+{"business_id": "b001", "name": "Spice Junction", "categories": "Indian curry vegetarian biryani family restaurant", "city": "Las Vegas", "stars": 4.6, "review_count": 284, "latitude": 36.115, "longitude": -115.173}
+{"business_id": "b002", "name": "Saffron Table", "categories": "Indian tandoori naan kebab fine dining", "city": "Las Vegas", "stars": 4.4, "review_count": 163, "latitude": 36.117, "longitude": -115.17}
+{"business_id": "b003", "name": "Neon Sushi", "categories": "Japanese sushi ramen sashimi restaurant", "city": "Las Vegas", "stars": 4.5, "review_count": 210, "latitude": 36.122, "longitude": -115.175}
+{"business_id": "b004", "name": "Taco Norte", "categories": "Mexican tacos burrito salsa street food", "city": "Las Vegas", "stars": 4.2, "review_count": 405, "latitude": 36.11, "longitude": -115.166}
+{"business_id": "b005", "name": "Pasta Roma", "categories": "Italian pasta pizza risotto restaurant", "city": "Las Vegas", "stars": 4.1, "review_count": 188, "latitude": 36.121, "longitude": -115.181}
+{"business_id": "b006", "name": "Green Bowl", "categories": "Healthy vegan salad smoothie gluten free cafe", "city": "Las Vegas", "stars": 4.7, "review_count": 96, "latitude": 36.118, "longitude": -115.16}
+{"business_id": "b007", "name": "Burger Forge", "categories": "American burger fries milkshake restaurant", "city": "Las Vegas", "stars": 4.0, "review_count": 550, "latitude": 36.126, "longitude": -115.164}
+{"business_id": "b008", "name": "Pho Lantern", "categories": "Vietnamese pho banh mi noodles broth", "city": "Las Vegas", "stars": 4.3, "review_count": 132, "latitude": 36.128, "longitude": -115.178}
+{"business_id": "b009", "name": "Cafe Mosaic", "categories": "Coffee brunch bakery croissant cafe", "city": "Las Vegas", "stars": 4.2, "review_count": 221, "latitude": 36.1, "longitude": -115.158}
+{"business_id": "b010", "name": "Seoul Grill", "categories": "Korean bbq kimchi bulgogi barbecue", "city": "Las Vegas", "stars": 4.6, "review_count": 175, "latitude": 36.13, "longitude": -115.17}
+{"business_id": "b011", "name": "Delhi Chaat House", "categories": "Indian street food chaat dosa samosa quick", "city": "Las Vegas", "stars": 4.5, "review_count": 142, "latitude": 36.108, "longitude": -115.171}
+{"business_id": "b012", "name": "Ocean Thai", "categories": "Thai seafood pad thai curry shrimp", "city": "Las Vegas", "stars": 4.1, "review_count": 119, "latitude": 36.119, "longitude": -115.19}
+{"business_id": "b013", "name": "Brooklyn Slice", "categories": "Pizza italian pepperoni new york restaurant", "city": "New York", "stars": 4.4, "review_count": 330, "latitude": 40.73, "longitude": -73.995}
+{"business_id": "b014", "name": "Queens Curry", "categories": "Indian curry dal biryani naan restaurant", "city": "New York", "stars": 4.5, "review_count": 204, "latitude": 40.742, "longitude": -73.91}
+{"business_id": "b015", "name": "Mission Burrito", "categories": "Mexican burrito carnitas salsa fast casual", "city": "San Francisco", "stars": 4.3, "review_count": 250, "latitude": 37.759, "longitude": -122.414}
+{"business_id": "b016", "name": "Bay Vegan", "categories": "Vegan healthy organic plant based bowl", "city": "San Francisco", "stars": 4.6, "review_count": 144, "latitude": 37.77, "longitude": -122.42}
+{"business_id": "b017", "name": "Golden Dumpling", "categories": "Chinese dumplings noodles soup restaurant", "city": "New York", "stars": 4.2, "review_count": 310, "latitude": 40.715, "longitude": -73.997}
+{"business_id": "b018", "name": "Desert Desserts", "categories": "Dessert bakery cake gelato pastry cafe", "city": "Las Vegas", "stars": 4.0, "review_count": 87, "latitude": 36.107, "longitude": -115.155}

@@ -1,0 +1,44 @@
+[
+  {
+    "business_id": "b009",
+    "name": "Cafe Mosaic",
+    "score": 11.3288,
+    "categories": "Coffee brunch bakery croissant cafe",
+    "stars": 4.2
+  },
+  {
+    "business_id": "b018",
+    "name": "Desert Desserts",
+    "score": 7.7115,
+    "categories": "Dessert bakery cake gelato pastry cafe",
+    "stars": 4.0
+  },
+  {
+    "business_id": "b006",
+    "name": "Green Bowl",
+    "score": 3.645,
+    "categories": "Healthy vegan salad smoothie gluten free cafe",
+    "stars": 4.7
+  },
+  {
+    "business_id": "b017",
+    "name": "Golden Dumpling",
+    "score": 3.3949,
+    "categories": "Chinese dumplings noodles soup restaurant",
+    "stars": 4.2
+  },
+  {
+    "business_id": "b013",
+    "name": "Brooklyn Slice",
+    "score": 3.1117,
+    "categories": "Pizza italian pepperoni new york restaurant",
+    "stars": 4.4
+  },
+  {
+    "business_id": "b014",
+    "name": "Queens Curry",
+    "score": 3.0288,
+    "categories": "Indian curry dal biryani naan restaurant",
+    "stars": 4.5
+  }
+]
